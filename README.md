@@ -6,4 +6,4 @@
 ![yezdaacik GitHub stats](https://github-readme-stats.vercel.app/api/?username=yezdaacik&show_icons=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-<img width="100%" align="center" src="https://i.ytimg.com/vi/EO2bY9hbtoA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChMMA8=&rs=AOn4CLDyvmDSVUz5MbpCvGhTWmHyCxveCA" alt="background">
+
